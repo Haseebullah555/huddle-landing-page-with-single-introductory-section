@@ -1,0 +1,12 @@
+:root{
+    --violet: hsl(257, 40%, 49%);
+    --soft-Magenta: hsl(300, 69%, 71%);
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-family: 'Open Sans', sans-serif;
+}
